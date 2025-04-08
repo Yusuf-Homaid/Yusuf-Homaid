@@ -2,10 +2,7 @@
 
 I'm really into cybersecurity and enjoy solving complex problems through hands-on projects. Whether it's vulnerability management or threat detection, I like diving deep into the fast-changing world of cybersecurity. Feel free to check out some of the projects I’ve worked on they show how I’ve been improving security operations and processes.
 
-<h2 style="color:red;">⚠️ Vulnerability Management Projects</h2>
-<p><a href="https://github.com/Yusuf-Homaid">https://github.com/Yusuf-Homaid</a></p>
-
-## ⚠️ Vulnerability Management Projectshttps://github.com/Yusuf-Homaid
+## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Yusuf-Homaid/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Yusuf-Homaid/programmatic-vulnerability-remediations)**
