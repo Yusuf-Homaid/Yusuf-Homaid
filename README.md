@@ -1,16 +1,15 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/yusuf-homaid/">Yusuf Homaid</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm really into cybersecurity and enjoy solving complex problems through hands-on projects. Whether it's vulnerability management or threat detection, I like diving deep into the fast-changing world of cybersecurity. Feel free to check out some of the projects I’ve worked on they show how I’ve been improving security operations and processes.
 
+## ⚠️ Vulnerability Management Projectshttps://github.com/Yusuf-Homaid
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/Yusuf-Homaid/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Yusuf-Homaid/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yusuf-Homaid/threat-hunting-scenario-tor)**
 
 <hr/>
 
