@@ -19,6 +19,20 @@ I'm really into cybersecurity and enjoy solving complex problems through hands-o
 
 <hr/>
 
+# [📊 Certifications:](https://www.credly.com/users/yusuf-homaid)
+- **CISM (Certified Information Security Manager)**
+- **CompTIA CySA+**
+- **CompTIA Security+**
+- **CompTIA Security Analytics Professional (CSAP) – Stackable Certification**
+- **Splunk Core Certified User**
+- **TryHackMe SAL1 (Security Analyst Level 1)**
+- **Google Cybersecurity Certificate**
+- **Cisco Security Essentials**
+- **Cisco Networking Essentials**
+- **Cisco Linux Essentials**
+
+
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -29,7 +43,7 @@ I'm really into cybersecurity and enjoy solving complex problems through hands-o
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/yusuf-homaid/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
