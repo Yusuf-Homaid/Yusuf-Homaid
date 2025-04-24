@@ -10,7 +10,7 @@ I'm really into cybersecurity and enjoy solving complex problems through hands-o
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yusuf-Homaid/threat-hunting-scenario-tor)**
-- ** [🛡️ Detecting and Investigating Brute Force Activity on Exposed Virtual Machines]
+- **[Detecting and Investigating Brute Force Activity on Exposed Virtual Machines](https://github.com/Yusuf-Homaid/detecting-brute-force-vms)**
 
 <hr/>
 
