@@ -24,7 +24,7 @@ I'm really into cybersecurity and enjoy solving complex problems through hands-o
 - **CISM (Certified Information Security Manager)**
 - **CompTIA CySA+**
 - **CompTIA Security+**
-- **CompTIA Security Analytics Professional (CSAP) – Stackable Certification**
+- **CompTIA Security Analytics Professional (CSAP) **
 - **Splunk Core Certified User**
 - **TryHackMe SAL1 (Security Analyst Level 1)**
 - **Google Cybersecurity Certificate**
