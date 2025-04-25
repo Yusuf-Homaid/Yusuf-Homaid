@@ -7,7 +7,7 @@ Experienced in securing systems across IT, banking, and financial sectors. Passi
 
 - **[Vulnerability Management Program Implementation](https://github.com/Yusuf-Homaid/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Yusuf-Homaid/programmatic-vulnerability-remediations)**
-- **[40 STIGs Implementation & Remediation](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/README.md)**
+- **[36 STIGs Implementation & Remediation](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
