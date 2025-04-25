@@ -25,7 +25,7 @@ Experienced in securing systems across IT, banking, and financial sectors. Passi
 - **CISM (Certified Information Security Manager)**
 - **CompTIA CySA+**
 - **CompTIA Security+**
-- **CompTIA Security Analytics Professional (CSAP) **
+- **CompTIA Security Analytics Professional (CSAP)**
 - **Splunk Core Certified User**
 - **TryHackMe SAL1 (Security Analyst Level 1)**
 - **Google Cybersecurity Certificate**
