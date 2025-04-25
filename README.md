@@ -21,7 +21,7 @@ Experienced in securing systems across IT, banking, and financial sectors. Passi
 
 <hr/>
 
-# [📊 Certifications:](https://www.credly.com/users/yusuf-homaid)
+# [🏅 Certifications:](https://www.credly.com/users/yusuf-homaid)
 - **CISM (Certified Information Security Manager)**
 - **CompTIA CySA+**
 - **CompTIA Security+**
