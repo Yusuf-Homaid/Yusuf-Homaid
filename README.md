@@ -1,6 +1,7 @@
 # <a href="https://www.linkedin.com/in/yusuf-homaid/">Yusuf Homaid</a>'s IT and Cybersecurity Project Portfolio 🔐
+**Cybersecurity Analyst Professional | 10+ yrs IT | 6+ Cybersecurity Certs |BSc Computer Science | MSc Finance**
 
-I'm really into cybersecurity and enjoy solving complex problems through hands-on projects. Whether it's vulnerability management or threat detection, I like diving deep into the fast-changing world of cybersecurity. Feel free to check out some of the projects I’ve worked on they show how I’ve been improving security operations and processes.
+Experienced in securing systems across IT, banking, and financial sectors. Passionate about solving complex problems through hands-on security projects. Skilled in threat hunting, detection, vulnerability management, and network security. I bridge technical expertise with business insight to enhance security operations and reduce risk.
 
 ## ⚠️ Vulnerability Management Projects
 
